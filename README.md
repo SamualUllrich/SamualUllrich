@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamualUllrich
 - 👀 I’m interested in side scroll games, robotics, and fun applications.
 - 🌱 I’m currently learning a bit of all languages to advance my employment opportunities.
-- 💞️ I'm looking to collaborate on making more efficient code.
+- 💞️ I'm interested in collaborating to create more efficient code.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/samullrich/)
 
 <!---
